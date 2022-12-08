@@ -9,8 +9,7 @@ load_dotenv() # take environment variables from .env.
 # Define the elements of the email
 email_sender = config('EMAIL_SENDER') 
 email_password = config('EMAIL_PASSWORD')
-#email_receiver = 'email@example.com'
-email_receiver = 'isa_olmedo14@outlook.es'
+email_receiver = 'email@example.com'
 
 subject = 'Keep working on your portafolio!'
 body = """
