@@ -104,4 +104,4 @@ Usando la biblioteca  *OS* , quedaría así  ![1670546997653](image/README/16705
 
 ### Verificamos que nos llegó el correo.
 
-    ![correo](image/README/correo.png)
+    ![correo](https://github.com/Isabel-Olmedo/Envio-de-correos-con-Python/blob/main/image/README/correo.png)
