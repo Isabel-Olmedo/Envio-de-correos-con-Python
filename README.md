@@ -105,4 +105,4 @@ Usando la biblioteca  *OS* , quedaría así  ![1670546997653](image/README/16705
 ### Verificamos que nos llegó el correo.
 
 
-    ![1670547755080](image/README/1670547755080.png)
+    ![1670547755080](image/README/correo.png)
